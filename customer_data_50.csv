@@ -1,0 +1,51 @@
+customer_id,age,gender,account_type,balance,transaction_count,last_transaction_days,loan_amount,credit_score,churn_risk,income,region
+C001,45,Male,Savings,7954,17,4,0,758,Medium,88901,Quebec
+C002,48,Male,Checking,24689,39,45,45181,777,Medium,59012,Quebec
+C003,25,Female,Savings,4614,53,38,37612,567,Medium,57764,Ontario
+C004,40,Female,Checking,46138,11,56,0,785,High,109743,Quebec
+C005,48,Female,Business,4472,30,18,0,739,Medium,71522,Quebec
+C006,24,Female,Savings,51271,36,12,6792,737,Low,72798,Quebec
+C007,60,Male,Savings,50835,28,11,38291,739,Medium,88895,Alberta
+C008,37,Male,Checking,10438,13,14,0,651,High,39210,Ontario
+C009,23,Female,Savings,25139,29,52,45417,767,Low,74657,Manitoba
+C010,50,Female,Business,27407,9,39,0,599,Medium,35566,Alberta
+C011,30,Female,Business,6897,31,8,20812,625,Low,106839,Quebec
+C012,63,Female,Checking,4128,56,29,0,675,Medium,103578,Manitoba
+C013,53,Female,Business,3394,37,16,0,690,High,98005,Ontario
+C014,22,Male,Business,4291,59,40,34791,621,High,35914,Quebec
+C015,55,Male,Business,49021,58,47,3613,750,Medium,40870,Ontario
+C016,43,Female,Savings,34055,15,31,17380,769,High,114780,Ontario
+C017,28,Female,Savings,49912,12,55,0,769,High,91825,British Columbia
+C018,44,Female,Business,25318,11,37,0,602,Low,71369,Ontario
+C019,65,Male,Business,3873,19,26,37400,731,Medium,106159,British Columbia
+C020,30,Female,Checking,58531,51,48,0,800,Medium,61323,British Columbia
+C021,39,Male,Savings,22802,27,38,0,594,Medium,109626,Quebec
+C022,51,Female,Business,17755,25,60,0,551,High,48699,British Columbia
+C023,40,Male,Savings,56025,25,58,0,681,Medium,101630,Alberta
+C024,40,Male,Savings,14352,41,10,48831,672,High,59090,Alberta
+C025,28,Male,Checking,16794,58,59,0,782,High,87926,Ontario
+C026,22,Female,Savings,26310,16,40,42345,785,Low,70464,Alberta
+C027,35,Male,Business,15185,39,46,0,623,Low,90539,Ontario
+C028,27,Female,Business,4579,51,57,2139,748,Low,50343,British Columbia
+C029,47,Male,Savings,2511,52,24,36217,777,High,113494,Alberta
+C030,22,Female,Savings,18939,58,1,0,600,Medium,97334,British Columbia
+C031,52,Male,Business,2180,7,32,4121,659,Medium,50107,Ontario
+C032,25,Male,Checking,59439,34,56,0,700,High,89651,Quebec
+C033,48,Male,Business,5312,23,45,36467,793,Medium,112154,Manitoba
+C034,50,Female,Checking,32042,26,17,44273,700,Low,99255,Alberta
+C035,57,Male,Business,29523,10,40,3530,560,Low,60977,Alberta
+C036,56,Male,Checking,12468,48,13,33583,733,Medium,89354,Manitoba
+C037,61,Female,Checking,2544,52,58,0,730,Medium,77967,Alberta
+C038,61,Female,Business,42355,48,32,5698,614,High,92379,Manitoba
+C039,65,Female,Business,27701,59,24,0,556,Low,66204,Ontario
+C040,29,Male,Checking,23273,14,14,41639,765,High,55781,Quebec
+C041,43,Male,Business,25838,10,52,20366,792,Medium,118749,Manitoba
+C042,30,Male,Savings,23434,55,40,0,664,Low,84421,Quebec
+C043,42,Female,Checking,27321,15,41,0,595,Medium,117396,Alberta
+C044,49,Female,Checking,57360,19,56,34614,631,Low,81537,British Columbia
+C045,22,Female,Savings,58269,32,60,0,746,Medium,106063,Manitoba
+C046,54,Female,Savings,26564,39,11,24826,695,High,49070,Ontario
+C047,48,Male,Business,7751,37,50,0,601,Medium,109607,Ontario
+C048,54,Female,Savings,28286,15,33,16665,670,High,59694,British Columbia
+C049,32,Female,Savings,12731,41,51,0,724,High,80400,Alberta
+C050,29,Female,Checking,29974,50,46,0,682,Medium,44911,Quebec
